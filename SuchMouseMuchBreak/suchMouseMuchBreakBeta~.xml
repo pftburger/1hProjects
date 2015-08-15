@@ -1,6 +1,6 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv45beta33.7.dtd" >
-   <PATCH nodename="C:\Users\SCHSCH\Desktop\1hProjects\SuchMouseMuchBreak\suchMouseMuchBreakBeta.v4p" systemname="suchMouseMuchBreakBeta" filename="C:\Users\SCHSCH\Desktop\suchMouseMuchBreakBeta.v4p" scrollx="6390" scrolly="420" locked="1">
-   <BOUNDS type="Window" left="17325" top="8805" width="4710" height="2415">
+   <PATCH nodename="C:\Users\SCHSCH\Desktop\1hProjects\SuchMouseMuchBreak\suchMouseMuchBreakBeta.v4p" systemname="suchMouseMuchBreakBeta" filename="C:\Users\SCHSCH\Desktop\suchMouseMuchBreakBeta.v4p" scrollx="6390" scrolly="420" locked="0">
+   <BOUNDS type="Window" left="19920" top="9060" width="4710" height="2415">
    </BOUNDS>
    <PACK Name="image" Version="0.2.0">
    </PACK>
